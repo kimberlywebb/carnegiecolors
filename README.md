@@ -14,7 +14,7 @@ library(carnegiecolors)
 Use the `names` function to view the available color palettes.
 ```r
 names(carnegie_palettes)
-#> [1] "classic"   "secondary" "accents"   "malott"    "brb" 
+#> [1] "classic"   "secondary" "campus"
 ```
 
 Call the palette using the `render_cornell_colors` function
