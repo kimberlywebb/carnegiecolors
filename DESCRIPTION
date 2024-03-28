@@ -2,8 +2,8 @@ Package: carnegiecolors
 Type: Package
 Title: Carnegie Mellon University colors palettes for R
 Version: 0.1.0
-Author: Kimberly A. Hochstedler, code based on work by Cianna Bedford-Petersen
-Maintainer: Kimberly A. Hochstedler <kah343@cornell.edu>
+Author: Kimberly A. H. Webb, code based on work by Cianna Bedford-Petersen
+Maintainer: Kimberly A. H. Webb <kah343@cornell.edu>
 Description: R color palettes based on Carnegie Mellon University official branding/logos.
 License: MIT + file LICENSE
 Encoding: UTF-8
