@@ -2,6 +2,8 @@
 Contains code for R package with R color palettes inspired by Carnegie Mellon University.
 Code adopted from the lovely `inauguration` R package by Cianna Bedford-Petersen, available [here](https://github.com/ciannabp/inauguration). 
 
+![R package sticker](carnegiecolors_Hex_Sticker.jpg)
+
 # R package installation
 Install the  `carnegiecolors` R package using the following code:
 ``` r
